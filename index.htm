@@ -4,67 +4,80 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Animate Javascript</title>
     <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/1.1.1/typed.min.js"></script>
 </head>
 <body>
-    <dic class="container">
-        <h2>GOTO</h2>
-    </dic>
-
-    
-
     <script src="anime.min.js"></script>
+
+    <div class="container">
+    </div>
+
     <script>
+
+    const container = document.querySelector(".container");
+
+    for(var i=0; i<=19; i++){
+        const blocks = document.createElement("div");
+        blocks.classList.add("block");
+        container.appendChild(blocks);
+         
+    }
+
+    </script>
+
+
+    <div class="terminal-window">
+    <section class="terminal">
+        <div class="history"></div>
+        $&nbsp;<span class="prompt"></span>
+        <span class="typed-cursor"></span>
         
-        const container = document.querySelector(".container");
+    </section>
+    </div>
+    <!-- data -->
+    <div class="terminal-data Goto-profile-run-output">
+    <br>Goto Profile Page<br>
+    ----------------------------------------------<br>
+    Welcome to my page.<br><br>
 
-        for(var i=0; i<=50; i++){
-            const blocks = document.createElement("div");
-            blocks.classList.add("block");
-            container.appendChild(blocks);
-        }
-        function startBlocks(){
+    &nbsp;&nbsp;Links<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<span><a href="https://github.com/orrepic">GitHub</a></span><span class="gray"> Check my projects</span><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<span><a href="https://cdn-ak.f.st-hatena.com/images/fotolife/t/terajin/20190824/20190824002903.jpg">Gallary</a></span><span class="gray"> I like Sushi</span><br>
+    <br>
+
+    </div>
+
+
+    <script type="text/javascript" src="terminal.js"></script>
+
+    <script>
+        function jumpBlocks(){
+
+            for (i=1; i<21; i++){
+
+                t = String('.block:nth-child(' + i + ')')
+                anime({
+                    targets: t,
+                    translateY: function() {
+                        return (anime.random(0, -100))
+                    },
+                    // duration: 500,
+                    delay: anime.stagger(10),
+                    easing: "easeOutElastic(1, 0.6)",
+                })
+
+            }
+
             anime({
-                targets: ".block",
-                translateX: function() {
-                    return anime.random(-800, 700);
-                },
-                translateY: function() {
-                    return anime.random(-500, 500);
-                },
-                scale: function() {
-                    return anime.random(1, 2)
-                },
-                duration: 1000,
-                // delay: anime.stagger(5),
-
-                complete: sneakBlocks,
-
-            })
-        }
-
-        function sneakBlocks(){
-
-            anime({
-                targets: ".block",
-                translateX: function() {
-                    return ('+='+String(anime.random(-100, 100)))
-                },
-                translateY: function() {
-                    return ('+='+String(anime.random(-100, 100)))
-                },
-                duration: 1000,
-                delay: anime.stagger(5),
-
-                complete: sneakBlocks,
+                complete: jumpBlocks,
             })
 
         }
-        
-        startBlocks()
 
-
+        jumpBlocks()
     </script>
 
 </body>

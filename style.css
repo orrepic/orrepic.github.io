@@ -76,12 +76,13 @@ a {
     flex-direction: row;
     gap: 2px;
 }
-.block:nth-child(1) {
+
+/* .block:nth-child(1) {
     position: absolute;
     bottom: 150px;
     left:500px;
 
-}
+} */
 
 .block {
     background-color: #ffffff00;

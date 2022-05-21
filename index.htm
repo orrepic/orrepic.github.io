@@ -71,44 +71,31 @@
 
         for (i=1; i<41; i++){
 
-            t = String('.block:nth-child(' + i + ')')
             anime({
-                targets: t,
+                targets: '.block',
                 translateY: function() {
                     return (anime.random(100, -100))
                 },
                 // duration: 500,
                 // delay: anime.stagger(500),
-                easing: "easeOutElastic(1, 0.6)",
-                duration: 2000,
+                easing: "easeOutElastic(1, 0.4)",
+                duration: 3000,
             })
 
         }
 
-        // for (i=1; i<41; i++){
             // anime({
-            //     targets: '.motion-path-demo path',
-            //     translateX: path('x')+(10*i),
-            //     translateY: path('y')+(10*i),
-            //     rotate: path('angle')+(2*i),
+            //     targets: '.block:nth-child(1)',
+            //     translateX: path('x'),
+            //     translateY: path('y'),
+            //     rotate: path('angle'),
             //     easing: 'linear',
-            //     duration: 2000,
-            // })
-
-            anime({
-                targets: '.block:nth-child(1)',
-                translateX: path('x'),
-                translateY: path('y'),
-                rotate: path('angle'),
-                easing: 'linear',
-                duration: 2000,
-            });
-
-        // }
-
+            //     duration: 3000,
+            // });
 
 
         anime({
+            duration: 3000,
             complete: moveBlocks,
         })
 

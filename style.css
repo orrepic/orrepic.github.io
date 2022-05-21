@@ -92,7 +92,7 @@ a {
     height: 10px;
     gap: 10px;
 
-    /* border-radius: 50%; */
+    border-radius: 0%;
 
     box-shadow:
     0 0 2px #ffffff,

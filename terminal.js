@@ -19,7 +19,7 @@ $(function() {
 
     { 
         action: 'type',
-        strings: ["After 5 seconds, this device is explode."],
+        strings: ["After 5 seconds, this device explode."],
         postDelay: 1000
     },
     

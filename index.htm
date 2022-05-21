@@ -28,8 +28,8 @@
         Welcome to my page.<br><br>
 
         &nbsp;&nbsp;Information<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;<span class="sky">Belongs</span><span> : NIT Kumamoto college, JAPAN</span><br>
-        &nbsp;&nbsp;&nbsp;&nbsp;<span class="sky">Mail</span><span> : ci18goto@g.kumamoto-nct.ac.jp</span><br><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;<span class="sky">Belongs</span><span>: NIT Kumamoto college, JAPAN</span><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;<span class="sky">Mail</span><span>: ci18goto@g.kumamoto-nct.ac.jp</span><br><br>
 
 
         &nbsp;&nbsp;Links<br>
@@ -47,7 +47,7 @@
 
         const container = document.querySelector(".container");
 
-        for(var i=0; i<40; i++){
+        for(var i=0; i<80; i++){
             const blocks = document.createElement("div");
             blocks.classList.add("block");
             container.appendChild(blocks);
@@ -59,16 +59,19 @@
 
     <script>
         var path = anime.path('#svg2 path');
+        var d = 3000;
 
-        function move1(){
+        function an1(){
+
+            
 
             anime({
                 targets: '.block',
                 translateY: function() {
-                    return (anime.random(5, -5))
+                    return (anime.random(500, -500))
                 },
                 translateX: function() {
-                    return (anime.random(5, -5))
+                    return (anime.random(300, -300))
                 },
                 rotate: function() {
                     return (anime.random(50, -50))
@@ -76,14 +79,53 @@
                 // duration: 500,
                 // delay: anime.stagger(500),
                 easing: "easeOutElastic(1, 0.4)",
-                duration: 3000,
-                complete: move1,
-            })
+                duration: d,
+                complete: an2,
+            });
 
+        }
+
+        function an2(){
+            anime({
+                targets: '.block',
+                scale: [
+                    {value: .1, easing: 'easeOutSine', duration: 500},
+                    {value: 1, easing: 'easeInOutQuad', duration: 1200}
+                ],
+                delay: anime.stagger(200, {grid: [14, 5], from: 'center'}),
+                duration: d,
+                complete: an3,
+            });
+        }
+
+        function an3(){
+            anime({
+                targets: '.block',
+                translateX: anime.stagger(0, {grid: [14, 5], from: 'center', axis: 'x'}),
+                translateY: anime.stagger(0, {grid: [14, 5], from: 'center', axis: 'y'}),
+                rotateZ: anime.stagger([0, 90], {grid: [14, 5], from: 'center', axis: 'x'}),
+                delay: anime.stagger(200, {grid: [14, 5], from: 'center'}),
+                easing: 'easeInOutQuad',
+                duration: d,
+                complete: an4,
+            });
+        }
+
+        function an4(){
+            anime({
+                targets: '.block',
+                translateX: function() {
+                    return String('+='+String(anime.random(50,-50)))},
+                translateY: function() {
+                    return String('+='+String(anime.random(50,-50)))},
+                delay: anime.stagger(100), // increase delay by 100ms for each elements.
+                complete: an1,
+                });
+            
         }
         
 
-        move1()
+        an1()
 
 
     </script>

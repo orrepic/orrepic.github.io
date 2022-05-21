@@ -21,7 +21,7 @@ a {
     color: white;
     font-family: Menlo, Monaco, "Consolas", "Courier New", "Courier";
     font-size: 11pt;
-    background: #30353a00;
+    background: #30333a4e;
     padding: 10px;
     box-sizing: border-box;
     position: absolute;
@@ -63,6 +63,7 @@ a {
 
 .terminal-data { display: none; }
 .terminal-window .gray { color: gray; }
+.terminal-window .sky { color: paleturquoise; }
 
 .container {
     position: absolute;
@@ -74,6 +75,12 @@ a {
     justify-content: center;
     flex-direction: row;
     gap: 2px;
+}
+.block:nth-child(1) {
+    position: absolute;
+    bottom: 150px;
+    left:500px;
+
 }
 
 .block {
@@ -94,3 +101,9 @@ a {
 
 }
 
+.motion-path-demo{
+    position: absolute;
+    width: 100%;
+    margin: auto;
+    align-items: center;
+}

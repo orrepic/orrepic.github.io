@@ -1,8 +1,8 @@
 # orrepic.github.io
 
-## Reference
+## References
 
-anime.js Documentation. 
+anime.js Documentation.  
 https://animejs.com/documentation/#functionBasedPropVal
 
 Codepen  

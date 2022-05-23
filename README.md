@@ -1,6 +1,6 @@
 # orrepic.github.io
 
-## Reference
+## References
 
 anime.js Documentation.  
 https://animejs.com/documentation/#functionBasedPropVal

@@ -2,7 +2,7 @@
 
 ## Reference
 
-anime.js Documentation. 
+anime.js Documentation.  
 https://animejs.com/documentation/#functionBasedPropVal
 
 Codepen  

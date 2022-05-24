@@ -1,6 +1,7 @@
 body {
     /* background: #6D7074; */
     background: black;
+    overflow: hidden;
 }
 
 a {

@@ -5,6 +5,8 @@ entries:
   - title: info
     entries:
       - title: 後藤汰誓 (Taisei Goto)
+      - title: National Instetute of Technology Kumamoto College <br>(2018-2022)
+      - title: Kyushu University Department of Design, Accorstic Design Course (2023-)
       - title: Twitter
         url: https://twitter.com/orrepic_
 
@@ -15,12 +17,12 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+  # - title: posts by category
+  #   post_list:
+  #     category: example2
+  #     show_more: true
+  #     show_more_text: See more posts...
+  #     show_more_url: example2-archive.html
 
   # - title: rss
   #   url: feed.xml

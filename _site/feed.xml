@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-27T00:39:30+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kakidame</title><subtitle>後藤汰誓が書いているものです。
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-27T18:54:07+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kakidame</title><subtitle>後藤汰誓が書いているものです。
 </subtitle><author><name>Taisei Goto</name></author><entry><title type="html">これからのこと2022</title><link href="http://localhost:4000/korekara2022.html" rel="alternate" type="text/html" title="これからのこと2022" /><published>2022-12-25T00:00:00+09:00</published><updated>2022-12-25T00:00:00+09:00</updated><id>http://localhost:4000/korekara2022</id><content type="html" xml:base="http://localhost:4000/korekara2022.html">&lt;p&gt;最近、これから（高専卒業後）のことについて悩みまくっている。
 卒研は大して進んでいないし、あと一回休んだら落単の科目もあるという卒業すら危うい状況だが（本当にまずい）、どうしても悩まずにはいられないため、
 一度考えをまとめてスッキリさせた後で、とりあえず卒業に向けて頑張りたいと思う。&lt;/p&gt;
@@ -131,9 +131,7 @@
 
 &lt;h2 id=&quot;余談&quot;&gt;余談&lt;/h2&gt;
 
-&lt;p&gt;自分のしたいことって”これだけに一生捧げるんだ！”っていう1つだけを考えるよりも、いくつかのしたいことを実現することを考えた方が良い気がする。そのいくつかのしたいことをうまく繋ぎ合わせると、自分だけの面白人生マップが完成してしまう。1つのしたいことだけを実現するための人生マップ（直線のイメージ）より、そっちの人生マップ（くねくねのイメージ）がなんかオモロイ。
-自分のいくつかのしたいことは、研究としてのしたいことは上記の通りで、個人的な活動としてのしたいことは、曲やメディアアートで表現（主張？）することで、
-あと、大学・大学院での活動を通していろんな知り合いを作りたい。ムカつく人々を見返したいとか、そういうのもある。何故か今になって人生始まった感じがする。&lt;/p&gt;</content><author><name>Taisei Goto</name></author><category term="diary" /><summary type="html">最近、これから（高専卒業後）のことについて悩みまくっている。 卒研は大して進んでいないし、あと一回休んだら落単の科目もあるという卒業すら危うい状況だが（本当にまずい）、どうしても悩まずにはいられないため、 一度考えをまとめてスッキリさせた後で、とりあえず卒業に向けて頑張りたいと思う。</summary></entry><entry><title type="html">ブログを始めた</title><link href="http://localhost:4000/first-blog.html" rel="alternate" type="text/html" title="ブログを始めた" /><published>2022-12-14T00:00:00+09:00</published><updated>2022-12-14T00:00:00+09:00</updated><id>http://localhost:4000/first-blog</id><content type="html" xml:base="http://localhost:4000/first-blog.html">&lt;p&gt;ブログを始めた。
+&lt;p&gt;多分1年後には色々変わってる&lt;/p&gt;</content><author><name>Taisei Goto</name></author><category term="diary" /><summary type="html">最近、これから（高専卒業後）のことについて悩みまくっている。 卒研は大して進んでいないし、あと一回休んだら落単の科目もあるという卒業すら危うい状況だが（本当にまずい）、どうしても悩まずにはいられないため、 一度考えをまとめてスッキリさせた後で、とりあえず卒業に向けて頑張りたいと思う。</summary></entry><entry><title type="html">ブログを始めた</title><link href="http://localhost:4000/first-blog.html" rel="alternate" type="text/html" title="ブログを始めた" /><published>2022-12-14T00:00:00+09:00</published><updated>2022-12-14T00:00:00+09:00</updated><id>http://localhost:4000/first-blog</id><content type="html" xml:base="http://localhost:4000/first-blog.html">&lt;p&gt;ブログを始めた。
 これから大学・大学院へ進学するにあたって、自分が考えていることをきちんと文章に起こす練習をしておいた方が良いと思ったことが主な理由である。&lt;/p&gt;
 
 &lt;p&gt;元々はTwitter上でその練習をしようと思っていたが、Twitterには公共的な側面があるため、自分の考えを書き連ね記録するのには向いていないと感じた。

@@ -20,9 +20,9 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: zibun-goto
+  - title: jibun-goto
     post_list:
-      category: zibun-goto
+      category: jibun-goto
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html

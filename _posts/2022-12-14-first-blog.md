@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ブログを始めた"
-category: zibun-goto
+category: jibun-goto
 ---
 ブログを始めた。
 これから大学・大学院へ進学するにあたって、自分が考えていることをきちんと文章に起こす練習をしておいた方が良いと思ったことが主な理由である。

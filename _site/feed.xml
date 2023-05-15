@@ -1,5 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-15T02:17:31+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kakidame</title><subtitle>後藤汰誓が書いているものです。
-</subtitle><author><name>Taisei Goto</name></author><entry><title type="html">最近の個人的内省</title><link href="http://localhost:4000/saikinno-naise.html" rel="alternate" type="text/html" title="最近の個人的内省" /><published>2023-05-12T00:00:00+09:00</published><updated>2023-05-12T00:00:00+09:00</updated><id>http://localhost:4000/saikinno-naise</id><content type="html" xml:base="http://localhost:4000/saikinno-naise.html">&lt;h2 id=&quot;作品制作について&quot;&gt;作品制作について&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-15T13:12:21+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kakidame</title><subtitle>後藤汰誓が書いているものです。
+</subtitle><author><name>Taisei Goto</name></author><entry><title type="html">創算部 第1回レポート</title><link href="http://localhost:4000/sosanbu1.html" rel="alternate" type="text/html" title="創算部 第1回レポート" /><published>2023-05-15T00:00:00+09:00</published><updated>2023-05-15T00:00:00+09:00</updated><id>http://localhost:4000/sosanbu1</id><content type="html" xml:base="http://localhost:4000/sosanbu1.html">&lt;p&gt;5月6日（土曜日）に、福岡 天神 赤煉瓦文化会館内 エンジニアカフェにて『創算部 キックオフミーティング』を主催しました。&lt;/p&gt;
+
+&lt;p&gt;創算部は、なんやかんやあって私が立ち上げた「クリエイティブコーディングとかするコミュニティ」です。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;イベントの様子&lt;/strong&gt;&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/85j2P7ev0_g&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sousanbu.connpass.com/event/280603/&quot;&gt;イベントページ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;イベントの企画時点では、5人くらい参加してくれたら万々歳かな〜と思っていたのですが、予想を超えて、9人の方が参加してくださいました。ありがとうございます。&lt;/p&gt;
+
+&lt;p&gt;今回のイベントでは、これからの活動のための一歩として、p5.jsでクリエイティブコーディングを体験するということをやりました。チュートリアルとして私がp5.jsの扱い方を伝えながら、各自で自由制作の時間もとる、という形式で進めました。&lt;/p&gt;
+
+&lt;p&gt;参加者の方々のほとんどはp5.jsを扱った経験がなく、私によるチュートリアルが参加者の方々の初p5.js体験だったはずなのですが、自由制作では、皆同じチュートリアルを受けたばかりであるにも関わらず、全員がそれぞれ個性的なものを作っていて、当たり前のことかもしれませんが、それを改めて体験して驚かされました。&lt;/p&gt;
+
+&lt;p&gt;また、イベント最後にアンケートをとって「次回以降でやってみたいこと」についてさまざまなアイデアをいただきました。せっかくなので、ここで共有させていただきます。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;みんなで作品を作って出展できたらいいですね！&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;出展、してみたいですね。まずは、創算部内部の展示会をそう遠くないうちに開くつもりです。赤煉瓦文化会館をギャラリーとして使ったことってあるんでしょうか？初めての試みかもしれませんが、やりたいですね。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;作ったものをARで表示したい！&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;デジタル領域内のジェネラティブアート作品とARの親和性は高いので、是非やりましょう。それこそ、展示会の時に一緒にAR領域の展示もしたいですね。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;メーカーフェア京都or東京に出展！寝ながら癒やし商品&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;メーカーフェアというイベントがあるんですね。私は、外部のイベントなどにあまり詳しくないので、参加者の皆さんから教えていただけるとありがたいです。私が参加できなくでも、参加者の皆さん同士で集まることもできるような、そういう状況を実現できるコミュニティにしていきたいですね。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ランダムにいい感じの色を選ぶ方法を知りたいです！&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;こういうの知りたい、という要望もいただきました。より良いものを作るための知識獲得は大切ですから、私から伝えることに加え、参照できる外部のものについての情報も共有することに努める、ということも大事ですね。&lt;/p&gt;
+
+&lt;p&gt;アンケートにご回答いただいた方々、ありがとうございました。アンケートの内容を参考にしつつ、「創算部」としての個性が出るような、変な方向に引っ張っていけるようにします。&lt;/p&gt;
+
+&lt;p&gt;ご参加いただいた皆さん、ご協力いただいたエンジニアカフェのスタッフの皆さんありがとうございました。次回以降もよろしくお願いいたします。&lt;/p&gt;
+
+&lt;p&gt;後藤&lt;/p&gt;</content><author><name>Taisei Goto</name></author><category term="event-report" /><summary type="html">5月6日（土曜日）に、福岡 天神 赤煉瓦文化会館内 エンジニアカフェにて『創算部 キックオフミーティング』を主催しました。</summary></entry><entry><title type="html">最近の個人的内省</title><link href="http://localhost:4000/saikinno-naise.html" rel="alternate" type="text/html" title="最近の個人的内省" /><published>2023-05-12T00:00:00+09:00</published><updated>2023-05-12T00:00:00+09:00</updated><id>http://localhost:4000/saikinno-naise</id><content type="html" xml:base="http://localhost:4000/saikinno-naise.html">&lt;h2 id=&quot;作品制作について&quot;&gt;作品制作について&lt;/h2&gt;
 &lt;p&gt;最近、4年次に所属したいと考えている（というか所属すること以外考えられない）メディアアートに関する研究室のゼミに参加している。&lt;/p&gt;
 
 &lt;p&gt;ゼミは、毎回学生が自分の研究内容と研究を進めていく方向性の概要を発表していく形式である。私は（少なくとも）研究室で作品制作をすることを前提として、ゼミでは作品制作に役立つ知識や刺激+αを享受しようと考えていたのだが、ゼミで知ることとなった、研究室の教授と学生の（期待以上の）”凄さ”と自分の未熟さを比べてしまい、「自分には何ができるのか」という問いに（しっかりと）悩まされる羽目になった。&lt;/p&gt;
@@ -50,14 +95,14 @@
 分かったことをメディアアートという形で実践したい。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;実はこれは、自分が考えている大きな”やりたいこと”の中から具体的なものを取り出して伝えただけで、その大きな”やりたいこと”は簡潔にまとめると次のようになる。&lt;/p&gt;
+&lt;p&gt;実はこれは、自分が考えている大きな”やりたいこと”の中から具体的なものを取り出して（「私はこのようなことを考えられる人間ですよ」ということを）伝えただけで、その大きな”やりたいこと”は簡潔にまとめると次のようになる。&lt;/p&gt;
 
 &lt;blockquote&gt;
 
-  &lt;p&gt;音楽を通した技術と人間の関係を調べることによって、技術の発展に伴う”人間の変容”を捉える。&lt;/p&gt;
+  &lt;p&gt;音を通した技術と人間の関係を調べることによって、技術の発展に伴う”人間の変容”を捉える。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;これはどういうことか。まず、技術の人間の関係から説明する。&lt;/p&gt;
+&lt;p&gt;これはどういうことか。きっかけとしては、まず「技術の人間の関係について考える」ことに触れたことから始まる。その考えとは次のようなものである。&lt;/p&gt;
 
 &lt;p&gt;現代において、私たちが何かを”する”とき、道具を使わずに何かをすることは多くない。
 道具を使って行為を実行する場合と、道具を使わずに行為を実行する場合とでは、実行した結果として得られる”体験”が違ったものになる(例えば、肉眼で夜空を観察するのと、望遠鏡を用いて観察するのでは見えるものが違う)。
@@ -82,10 +127,10 @@
 -河上正秀『行為と意味』(未知谷)より引用-&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;技術によって起こりうる”変容”を認識する（人間でも環境でも何でも）ということが、社会をより良くするために必要なことであるというのは明らかである。
+&lt;p&gt;技術によって起こりうる”変容”を認識する（人間でも環境でも何でも）ということが、必要なことであるというのは明らかである。
 “変容”を認識しておくことで、人間はその技術とどのように付き合って行けば良いか、より深く考えることができるからだ。&lt;/p&gt;
 
-&lt;p&gt;私はこのような考えに共感し、次第に技術と人間の関係について調べるような研究をしてみたいと考えるようになった。
+&lt;p&gt;私はこのような考えに触れたことをきっかけとして、次第に技術と人間の関係について調べるような研究をしてみたいと考えるようになった。
 では、それが九州大学 芸術工学部 音響設計コースとどのように繋がるのか？という話になってくるが、まずは次の一文を見てほしい。&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -157,7 +202,7 @@
 海外の大学院に進学するためには、多くの壁を乗り越えなければならない（言語・成績・実績・etc）。
 しかし、その壁を乗り越えようとする行動の結果として得られるものは、必ず自分の人生をより良いものにするだろうし、
 得られた実績によって給付型奨学金の審査にも少しは通りやすくなるだろうと思われる。
-海外の大学院へ進学するとしたら、名の知れた大学を目指すべきだろうと思う。理由は、単純に教育・研究の質が高いからである。
+海外の大学院へ進学するとしたら、名の知れた大学を目指すべきだろうと思う。理由は、単純に教育・研究の質が高いことに加え、そこに集まってくる人々からも多くの刺激を受けられるからである。
 具体的な受験先の決定は、大学へ進学してから先生と話したり、活動している中で何らかの要求点（リソース・カリキュラム・etc）が見えてきた後になるが、
 一般的に対策すべきこと（TOEFL&amp;amp;IELTS・実績・成績）については入学後すぐに取り組むつもりである。&lt;/p&gt;
 

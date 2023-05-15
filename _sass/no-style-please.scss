@@ -5,6 +5,14 @@
     filter: invert(1);
 
     &.ioda { filter: invert(0); }
+    
+  }
+
+  iframe {
+    filter: invert(1);
+
+    &.ioda { filter: invert(0); }
+    
   }
 }
 

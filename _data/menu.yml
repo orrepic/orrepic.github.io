@@ -2,38 +2,77 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: profile
     entries:
       - title: 後藤汰誓 (Goto Taisei)
-      - title: National Institute of Technology Kumamoto College <br>(2018-2022)
-      - title: Kyushu University Department of Design, Accoustic Design Course (2023-)
-      # - title: TOEIC L&R 870点
-      - title: GDSC NITK Chapter Frontend & Event Lead
-        url: https://gdsc.community.dev/national-institute-of-technology-kosen-kumamoto-college/
-      - title: 『創算部（Sousanbu）』Organizer
-        url: https://sousanbu.connpass.com/
-      - title: Twitter
-        url: https://twitter.com/orrepic_
-      - title: OpenProcessing
-        url: https://openprocessing.org/user/370197?view=activity&o=11
+      - title: Associate in Engineering (2023.03)
+      - title: National Institute of Technology Kumamoto College, Department of Control and Information Systems Engineering (2018-2022)
+      - title: Kyushu University, Department of Design, Accoustic Design Course (2023-)
+  
+  - title: gallery
+    post_list:
+      category: none
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: example2-archive.html
 
-  - title: all posts
+  - title: interest
+    entries:
+      - title: Art
+      - title: Music
+      - title: Design
+      - title: Accoustics
+      - title: Media Studies
+      - title: Media Alchaeology
+      - title: Human-Computer Interaction
+
+  - title: positions
+    entries:
+      - title: GDSC NITK Chapter Frontend & Event Lead (2022-2023) 
+      - title: Fukuoka Engineer Cafe Staff (2023-)
+      - title: 『創算部（Sousanbu）』Organizer (2023-)
+        # url: https://sousanbu.connpass.com/ 
+  
+  - title: events
+    entries:
+      - title: 『創算部』Meet up (2023.05-)
+        url: https://engineercafe.jp/ja/topics/7532
+      - title: 『Orimetry』Workshop (2023.10.28)
+        url: https://mitou-fukuoka.org/2023/10/18/orimetry_workshop/
+      - title: freq-231112 Performance (2023.11.12)
+  
+  - title: work experiences
+    entries:
+      - title: 『stain』 Staff (2023.05.13)
+        url: https://stain.peatix.com/
+      - title: 『紙のレコード』Workshop Staff (2023.08.05)
+        url: https://www.design.kyushu-u.ac.jp/pages/daikoukai/
+  
+  - title: awards/grants
+    entries:
+      - title: 福岡未踏的人材発掘・育成コンソーシアム 1期 Grow 採択 (2023)
+        url: https://mitou-fukuoka.org/2023/07/26/saitaku_phase1/
+
+  - title: skills
+    entries:
+      - title: Electronics (with Arduino, Raspberry Pi, ESP32, M5Stack, etc.)
+      - title: Digital Fabrication (with 3D Printer, Laser Cutter)
+      - title: Programming(C, Python, JavaScript, HTML, CSS, Processing, C++)
+      - title: Deep Learning (with TensorFlow, Keras)
+      - title: Composing (with Logic Pro X)
+      - title: TOEIC L&R Score 870 (2022.03)
+
+
+  - title: latest updates
     post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: jibun-goto
+  - title: kakidame
     post_list:
-      category: jibun-goto
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
-  - title: event-report
-    post_list:
-      category: hitori-goto
+      category: kakidame
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html

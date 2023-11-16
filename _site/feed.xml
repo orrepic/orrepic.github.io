@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-11-15T23:32:45+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Goto Taisei</title><subtitle>後藤汰誓が書いているものです。
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-11-15T23:35:46+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Goto Taisei</title><subtitle>後藤汰誓が書いているものです。
 </subtitle><author><name>Taisei Goto</name></author><entry><title type="html">gallery</title><link href="http://localhost:4000/gallery.html" rel="alternate" type="text/html" title="gallery" /><published>2023-04-01T00:00:00+09:00</published><updated>2023-04-01T00:00:00+09:00</updated><id>http://localhost:4000/gallery</id><content type="html" xml:base="http://localhost:4000/gallery.html">&lt;div class=&quot;iframe-wrapper&quot;&gt;
   &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Y65Wu6y7NGc?si=j2OZd-ZUd4Io-ZXL&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
@@ -14,11 +14,11 @@
 &lt;script src=&quot;https://player.vimeo.com/api/player.js&quot;&gt;&lt;/script&gt;
 
 &lt;div class=&quot;iframe-wrapper&quot;&gt;
-&lt;iframe src=&quot;https://openprocessing.org/sketch/1881578/embed/&quot; width=&quot;400&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;https://openprocessing.org/sketch/1881578/embed/&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;iframe-wrapper&quot;&gt;
-&lt;iframe src=&quot;https://openprocessing.org/sketch/1995110/embed/&quot; width=&quot;400&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;https://openprocessing.org/sketch/1995110/embed/&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/ADCreHe4kbJSy3dzCalZP6-d5Wd_xODvZNmqjlUK9wuXesq178Ug9ivcUlCzDMdHs1o0sb60TW7zjLM94fP8-6yfZauW3fpBmosJVLXC3yEz2jHqEDw-0YM=w800-h1066&quot; class=&quot;photoembed-maker&quot; /&gt;&lt;/p&gt;

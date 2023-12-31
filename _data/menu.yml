@@ -9,6 +9,12 @@ entries:
       - title: National Institute of Technology Kumamoto College, Department of Control and Information Systems Engineering (2018-2022)
       - title: Kyushu University, Department of Design, Accoustic Design Course (2023-)
   
+  - title: contact
+    entries:
+      - title: goto.taisei.703[at]s.kyushu-u.ac.jp
+      - title: Twitter
+        url: https://twitter.com/orrepic_
+  
   - title: gallery
     post_list:
       category: none

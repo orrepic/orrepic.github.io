@@ -22,3 +22,6 @@ category: none
 </div>
 
 <img src="https://lh3.googleusercontent.com/pw/ADCreHe1kMpelkgHMjFn4nxDSoNsk30OPLuALH_DQ7rR1RYUbEQF5NQH-gnSVvVPoyFbswT1fIKzswBuIqrf0FYOKci1UyBVc96oUzRGaEb_I-11Bs9sD5Y=w1600-h1200" class="photoembed-maker" >
+
+
+<iframe width="411" height="730" src="https://www.youtube.com/embed/L5VpcHsq_9U" title="声も聞こえます" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

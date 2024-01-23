@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-31T17:38:11+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Goto Taisei</title><subtitle>後藤汰誓が書いているものです。
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-23T17:59:08+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Goto Taisei</title><subtitle>後藤汰誓が書いているものです。
 </subtitle><author><name>Taisei Goto</name></author><entry><title type="html">2023振り返り</title><link href="http://localhost:4000/hurikaeri2023.html" rel="alternate" type="text/html" title="2023振り返り" /><published>2023-12-31T00:00:00+09:00</published><updated>2023-12-31T00:00:00+09:00</updated><id>http://localhost:4000/hurikaeri2023</id><content type="html" xml:base="http://localhost:4000/hurikaeri2023.html">&lt;h1 id=&quot;序&quot;&gt;序&lt;/h1&gt;
 &lt;p&gt;2023年が終わる。2023年が始まった時、僕はこんなツイートをしていた。&lt;/p&gt;
 &lt;figure&gt;
@@ -216,4 +216,6 @@
 &lt;iframe src=&quot;https://openprocessing.org/sketch/2101587/embed/&quot; width=&quot;400&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/ADCreHe1kMpelkgHMjFn4nxDSoNsk30OPLuALH_DQ7rR1RYUbEQF5NQH-gnSVvVPoyFbswT1fIKzswBuIqrf0FYOKci1UyBVc96oUzRGaEb_I-11Bs9sD5Y=w1600-h1200&quot; class=&quot;photoembed-maker&quot; /&gt;&lt;/p&gt;</content><author><name>Taisei Goto</name></author><category term="none" /><summary type="html"></summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/ADCreHe1kMpelkgHMjFn4nxDSoNsk30OPLuALH_DQ7rR1RYUbEQF5NQH-gnSVvVPoyFbswT1fIKzswBuIqrf0FYOKci1UyBVc96oUzRGaEb_I-11Bs9sD5Y=w1600-h1200&quot; class=&quot;photoembed-maker&quot; /&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;411&quot; height=&quot;730&quot; src=&quot;https://www.youtube.com/embed/L5VpcHsq_9U&quot; title=&quot;声も聞こえます&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Taisei Goto</name></author><category term="none" /><summary type="html"></summary></entry></feed>

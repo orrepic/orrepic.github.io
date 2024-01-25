@@ -61,7 +61,7 @@ entries:
   
   - title: publications
     entries:
-      - title: 畳み込みニューラルネットワークによる楽器認識におけるデータ拡張の効果の検証, 電気学会九州支部高専研究講演会 (2023.03.04)
+      - title: 後藤汰誓,嶋田泰幸, 畳み込みニューラルネットワークによる楽器認識におけるデータ拡張の効果の検証, 電気学会九州支部高専研究講演会 (2023.03.04)
 
   - title: skills
     entries:
@@ -71,7 +71,6 @@ entries:
       - title: Deep Learning (with TensorFlow, Keras)
       - title: Composing (with Logic Pro X)
       - title: TOEIC L&R Score 870 (2022.03)
-
 
   - title: latest updates
     post_list:

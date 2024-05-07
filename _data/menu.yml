@@ -38,24 +38,24 @@ entries:
       - title: Fukuoka Engineer Cafe Staff (2023.05-)
       - title: 『創算部（Sousanbu）』Organizer (2023.05-)
         # url: https://sousanbu.connpass.com/ 
+
+  - title: work experiences
+    entries:
+      - title: 『Orimetry』開発 (2023.08-2023.11)
+        url: https://note.com/mitou_fukuoka/n/na8d9210137fd?sub_rt=share_pw
+      - title: SIKUMI DESIGN Inc. (2024.05-)
   
   - title: events
     entries:
-      - title: 『創算部』Meet up (2023.05-)
+      - title: 『創算部』Meet up Organizer (2023.05-)
         url: https://engineercafe.jp/ja/topics/7532
-      - title: 『Orimetry』Workshop (2023.10.28)
+      - title: 『Orimetry』Workshop Organizer (2023.10.28)
         url: https://mitou-fukuoka.org/2023/10/18/orimetry_workshop/
-      - title: freq-231112 Performance (2023.11.12)
-  
-  - title: work experiences
-    entries:
+      - title: freq-231112 Performer (2023.11.12)
       - title: 『stain』 Staff (2023.05.13)
         url: https://stain.peatix.com/
       - title: 『紙のレコード』Workshop Staff (2023.08.05)
         url: https://www.design.kyushu-u.ac.jp/pages/daikoukai/
-      - title: 『Orimetry』開発 (2023.08-2023.11)
-        url: https://note.com/mitou_fukuoka/n/na8d9210137fd?sub_rt=share_pw
-      - title: SIKUMI DESIGN Inc. (2024.05-)
   
   - title: awards/grants
     entries:

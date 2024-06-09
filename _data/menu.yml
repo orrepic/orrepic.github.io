@@ -37,16 +37,16 @@ entries:
 
   - title: positions
     entries:
-      - title: GDSC NITK Chapter Frontend & Event Lead (2022-2023) 
-      - title: Fukuoka Engineer Cafe Staff (2023.05-)
       - title: 『創算部（Sousanbu）』Organizer (2023.05-)
-        # url: https://sousanbu.connpass.com/ 
+        url: https://engineercafe.jp/ja/topics/6532
+      - title: Fukuoka Engineer Cafe Staff (2023.05-)
+      - title: GDSC NITK Chapter Frontend & Event Lead (2022-2023) 
 
   - title: work experiences
     entries:
+      - title: SHIKUMI DESIGN Inc. (2024.05-)
       - title: 『Orimetry』開発 (2023.08-2023.11)
         url: https://note.com/mitou_fukuoka/n/na8d9210137fd?sub_rt=share_pw
-      - title: SHIKUMI DESIGN Inc. (2024.05-)
   
   - title: events
     entries:

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-06-11T21:24:45+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Goto Taisei</title><subtitle>後藤汰誓が書いているものです。
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-25T21:23:38+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Goto Taisei</title><subtitle>後藤汰誓が書いているものです。
 </subtitle><author><name>Taisei Goto</name></author><entry><title type="html">2023振り返り</title><link href="http://localhost:4000/hurikaeri2023.html" rel="alternate" type="text/html" title="2023振り返り" /><published>2023-12-31T00:00:00+09:00</published><updated>2023-12-31T00:00:00+09:00</updated><id>http://localhost:4000/hurikaeri2023</id><content type="html" xml:base="http://localhost:4000/hurikaeri2023.html">&lt;h1 id=&quot;序&quot;&gt;序&lt;/h1&gt;
 &lt;p&gt;2023年が終わる。2023年が始まった時、僕はこんなツイートをしていた。&lt;/p&gt;
 &lt;figure&gt;
@@ -199,36 +199,46 @@
 &lt;img src=&quot;https://lh3.googleusercontent.com/pw/ABLVV86bSXOAtIwuwRjGRikuTOsFIaBuMkMmaV_0jo-tPVqPKu24cVl8k-5a5M6W8_n8ZvsbfVjQ33vzJ0Pc2iDLyI3WMh5FVa4hSNP1uQrHnapUKDtVFVE=w800-h1066&quot; class=&quot;photoembed-maker&quot; /&gt;
 年末にとれた襟足
 &lt;figcaption&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</content><author><name>Taisei Goto</name></author><category term="kakidame" /><summary type="html">序 2023年が終わる。2023年が始まった時、僕はこんなツイートをしていた。 2023ってなんかキモくね&amp;mdash; 後藤 (@orrepic_) December 31, 2022</summary></entry><entry><title type="html">gallery</title><link href="http://localhost:4000/gallery.html" rel="alternate" type="text/html" title="gallery" /><published>2023-04-01T00:00:00+09:00</published><updated>2023-04-01T00:00:00+09:00</updated><id>http://localhost:4000/gallery</id><content type="html" xml:base="http://localhost:4000/gallery.html">&lt;div class=&quot;iframe-wrapper&quot;&gt;
-  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Y65Wu6y7NGc?si=j2OZd-ZUd4Io-ZXL&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+&lt;/figure&gt;</content><author><name>Taisei Goto</name></author><category term="kakidame" /><summary type="html">序 2023年が終わる。2023年が始まった時、僕はこんなツイートをしていた。 2023ってなんかキモくね&amp;mdash; 後藤 (@orrepic_) December 31, 2022</summary></entry><entry><title type="html">gallery</title><link href="http://localhost:4000/gallery.html" rel="alternate" type="text/html" title="gallery" /><published>2023-04-01T00:00:00+09:00</published><updated>2023-04-01T00:00:00+09:00</updated><id>http://localhost:4000/gallery</id><content type="html" xml:base="http://localhost:4000/gallery.html">&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczMt_LVhBbBTipAstsl1wP4EEY2iVSrRnOMyXaI0-WOOnNJ4ItOb0BcdPpqNbJN0FNGWJFyFdvlJXg8wMcCPZd_UiZwkS4Qzzsvfgxd9OlKVSqrnPks=w800-h600&quot; class=&quot;photoembed-maker&quot; /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;iframe-wrapper&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jRyvms89mlo?si=p2ZYLdZt8G2fLm8J&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/1SAo7_BLIRQ&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;div style=&quot;padding:56.25% 0 0 0;position:relative;&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/869084622?badge=0&amp;amp;autopause=0&amp;amp;quality_selector=1&amp;amp;player_id=0&amp;amp;app_id=58479&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen; picture-in-picture&quot; style=&quot;position:absolute;top:0;left:0;width:100%;height:100%;&quot; title=&quot;no title&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;script src=&quot;https://player.vimeo.com/api/player.js&quot;&gt;&lt;/script&gt;
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczO77Pn7DGr2rIjdcAV3fDsQoCQaz4z8IneGr9gzVkIRmBrDZXGQUZLgPRT2mNM7bI-DC-kHrLd-XVmBLOafyxtxYbSRFiQjbxkZN-6vCtjFgEPbvzE=w800-h600&quot; class=&quot;photoembed-maker&quot; /&gt;&lt;/p&gt;
 
-&lt;div style=&quot;padding:177.78% 0 0 0;position:relative;&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/884787047?badge=0&amp;amp;autopause=0&amp;amp;quality_selector=1&amp;amp;player_id=0&amp;amp;app_id=58479&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen; picture-in-picture&quot; style=&quot;position:absolute;top:0;left:0;width:100%;height:100%;&quot; title=&quot;Feedback with Photophone (Copy)&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;script src=&quot;https://player.vimeo.com/api/player.js&quot;&gt;&lt;/script&gt;
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczMiUy5cOAvvMQjPCEycpCaRJl8RpJXh5gjAT6D3uAJSMZyk4Yvucn7Pz_YpVabAqDftdrtkLL_ADJI3PWqpEhwf9_vfScQyVEclmtBkB01UJpdV9V0=w800-h515&quot; class=&quot;photoembed-maker&quot; /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;iframe-wrapper&quot;&gt;
-&lt;iframe src=&quot;https://openprocessing.org/sketch/2101587/embed/&quot; width=&quot;400&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/ADCreHe1kMpelkgHMjFn4nxDSoNsk30OPLuALH_DQ7rR1RYUbEQF5NQH-gnSVvVPoyFbswT1fIKzswBuIqrf0FYOKci1UyBVc96oUzRGaEb_I-11Bs9sD5Y=w1600-h1200&quot; class=&quot;photoembed-maker&quot; /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;iframe-wrapper&quot;&gt;
-&lt;iframe width=&quot;411&quot; height=&quot;730&quot; src=&quot;https://www.youtube.com/embed/L5VpcHsq_9U&quot; title=&quot;声も聞こえます&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;iframe-wrapper&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yLjB5v4fGmM?si=3N-fBCtsbr9RScWT&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/09uZHHBalnM?si=w7XXI_qePwG6N6DE&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczOXjX5qLPnmIm-QfDZqzyDOt1f5QrEiC76i_1cQaqMrSDQfYs4uCNIfAAAvdljWaYKgt4ucKoQ09SahFOGKed2easvsHUhZfrldwtEiCTSQPLdaghU=w800-h593&quot; class=&quot;photoembed-maker&quot; /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;iframe-wrapper&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/09uZHHBalnM?si=w7XXI_qePwG6N6DE&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yLjB5v4fGmM?si=3N-fBCtsbr9RScWT&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;iframe-wrapper&quot;&gt;
+&lt;iframe width=&quot;411&quot; height=&quot;730&quot; src=&quot;https://www.youtube.com/embed/L5VpcHsq_9U&quot; title=&quot;声も聞こえます&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/ADCreHe1kMpelkgHMjFn4nxDSoNsk30OPLuALH_DQ7rR1RYUbEQF5NQH-gnSVvVPoyFbswT1fIKzswBuIqrf0FYOKci1UyBVc96oUzRGaEb_I-11Bs9sD5Y=w1600-h1200&quot; class=&quot;photoembed-maker&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;iframe-wrapper&quot;&gt;
+&lt;iframe src=&quot;https://openprocessing.org/sketch/2101587/embed/&quot; width=&quot;400&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;padding:177.78% 0 0 0;position:relative;&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/884787047?badge=0&amp;amp;autopause=0&amp;amp;quality_selector=1&amp;amp;player_id=0&amp;amp;app_id=58479&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen; picture-in-picture&quot; style=&quot;position:absolute;top:0;left:0;width:100%;height:100%;&quot; title=&quot;Feedback with Photophone (Copy)&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;script src=&quot;https://player.vimeo.com/api/player.js&quot;&gt;&lt;/script&gt;
+
+&lt;div style=&quot;padding:56.25% 0 0 0;position:relative;&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/869084622?badge=0&amp;amp;autopause=0&amp;amp;quality_selector=1&amp;amp;player_id=0&amp;amp;app_id=58479&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen; picture-in-picture&quot; style=&quot;position:absolute;top:0;left:0;width:100%;height:100%;&quot; title=&quot;no title&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;script src=&quot;https://player.vimeo.com/api/player.js&quot;&gt;&lt;/script&gt;
+
+&lt;div class=&quot;iframe-wrapper&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jRyvms89mlo?si=p2ZYLdZt8G2fLm8J&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;iframe-wrapper&quot;&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Y65Wu6y7NGc?si=j2OZd-ZUd4Io-ZXL&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;</content><author><name>Taisei Goto</name></author><category term="none" /><summary type="html"></summary></entry></feed>

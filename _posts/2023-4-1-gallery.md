@@ -4,6 +4,16 @@ title: "gallery"
 category: none
 ---
 
+<img src="https://pbs.twimg.com/media/GmK2zt7asAEKKTE?format=jpg&name=4096x4096">
+
+<img src="https://lh3.googleusercontent.com/pw/AP1GczPF_34ui_Rtpx7bZnMquAS9XSR6lsGIMZohWV2qyPA2uddYPQZ9iU8rYFAimPv_oJNIhjiGuaHMULFIzdlnsNr7p7dVms-BLVT2xIYk_i7xxpcDXMY=w800-h230" class="photoembed-maker" >
+
+<div class="iframe-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZXktmoNQUSU?si=79W4OsjTyOdHtyxZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<img src="https://pbs.twimg.com/media/GiEPBUGbEAAVpU_?format=jpg&name=large">
+
 <img src="https://lh3.googleusercontent.com/pw/AP1GczMt_LVhBbBTipAstsl1wP4EEY2iVSrRnOMyXaI0-WOOnNJ4ItOb0BcdPpqNbJN0FNGWJFyFdvlJXg8wMcCPZd_UiZwkS4Qzzsvfgxd9OlKVSqrnPks=w800-h600" class="photoembed-maker" >
 
 <div class="iframe-wrapper">

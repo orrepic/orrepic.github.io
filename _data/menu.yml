@@ -17,7 +17,10 @@ entries:
     entries:
       - title: Mail(university):goto.taisei.703[at]s.kyushu-u.ac.jp
       - title: Mail(personal):orrepic[at]gmail.com
-      - title: SNS:orrepic_
+      - title: Twitter:@goto_taisei
+        url: https://twitter.com/goto_taisei
+      - title: Instagram:@orrepic_
+        url: https://www.instagram.com/orrepic_/
 
   - title: gallery
     post_list:

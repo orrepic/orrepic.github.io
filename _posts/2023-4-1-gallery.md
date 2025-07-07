@@ -4,6 +4,10 @@ title: "gallery"
 category: none
 ---
 
+<div class="iframe-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nkSLKnJvfps?si=MFP1ZNocusmXZ4qI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 <img src="https://pbs.twimg.com/media/GmK2zt7asAEKKTE?format=jpg&name=4096x4096">
 
 <img src="https://lh3.googleusercontent.com/pw/AP1GczPF_34ui_Rtpx7bZnMquAS9XSR6lsGIMZohWV2qyPA2uddYPQZ9iU8rYFAimPv_oJNIhjiGuaHMULFIzdlnsNr7p7dVms-BLVT2xIYk_i7xxpcDXMY=w800-h230" class="photoembed-maker" >

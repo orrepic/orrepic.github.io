@@ -62,22 +62,26 @@ entries:
 
   - title: awards/grants
     entries:
+      - title: 2025年度『上期 未踏アドバンスト事業』採択 16,000,000JPY
+      - url: https://www.ipa.go.jp/jinzai/mitou/advanced/2025first/gaiyou-is-1.html
       - title: 2024年度『未踏IT人材発掘・育成事業』スーパークリエータ認定 (2025)
         url: https://www.ipa.go.jp/jinzai/mitou/koubo/career/2024/2024-supercreator-06.html
       - title: 情報処理学会 第142回音楽情報科学研究発表会 学生奨励賞（Best New Direction部門） (2025)
         url: https://www.ipsj.or.jp/award/mus-award3.html
-      - title: 2024年度『未踏IT人材発掘・育成事業』採択 (2024)
+      - title: 2024年度 未踏IT人材発掘・育成事業』採択 2,880,000JPY (2024)
         url: https://www.ipa.go.jp/jinzai/mitou/it/2024/koubokekka.html
-      - title: 2023年度『福岡未踏的人材発掘・育成コンソーシアム』1期 Grow 採択 (2023)
+      - title: 2023年度『福岡未踏的人材発掘・育成コンソーシアム』1期 Grow 採択 500,000JPY (2023)
         url: https://mitou-fukuoka.org/2023/07/26/saitaku_phase1/
 
   - title: publications
     entries:
-      - title: 後藤汰誓, 大塚敏郎, 石山遼, ユーザとモノのネットワーク体験を創作するためのARシステム (2025)
+      - title: Goto, Taisei, and Kazuhiro Jo. "Ongoing Production of a “Growing Instrument” Using Mycelium-Based Materials." Proceedings of the International Conference on New Interfaces for Musical Expression. 2025. (査読付き)
+        url: https://nime.org/proc/nime2025_51/
+      - title: 後藤汰誓, 大塚敏郎, 石山遼. ユーザとモノのネットワーク体験を創作するためのARシステム. 2025.
         url: https://www.ipa.go.jp/jinzai/mitou/it/2024/seika.html
-      - title: 後藤汰誓, 城一裕, 菌糸材を用いた“育つ楽器”の制作, 情報処理学会音楽情報科学(MUS)研究会(142) (2025)
+      - title: 後藤汰誓, 城一裕. 菌糸材を用いた“育つ楽器”の制作. 情報処理学会音楽情報科学(MUS)研究会(142). 2025.
         url: https://ipsj.ixsq.nii.ac.jp/records/2000936
-      - title: 後藤汰誓,嶋田泰幸, 畳み込みニューラルネットワークによる楽器認識におけるデータ拡張の効果の検証, 電気学会九州支部高専研究講演会 (2023)
+      - title: 後藤汰誓,嶋田泰幸. 畳み込みニューラルネットワークによる楽器認識におけるデータ拡張の効果の検証. 電気学会九州支部高専研究講演会. 2023.
 
   - title: events
     entries:
